@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "b" {
-  bucket = "venkatesh128"
+  bucket = "venkatesh124"
   acl    = "private"
 
   tags = {
